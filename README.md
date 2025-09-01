@@ -89,11 +89,6 @@ The purpose of this project is to:
 **Ketan Tewari**
 
 * 📧 Email: [ketantewari100@gmail.com]
-* 🌐 GitHub: [your-github-profile]
+* 🌐 GitHub: [https://github.com/Ketan2612]
 
 ---
-
-
----
-
-Do you want me to **make it more concise** (just project overview + preview + features) or keep this **detailed professional format**?
