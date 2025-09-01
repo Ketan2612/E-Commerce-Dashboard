@@ -51,7 +51,7 @@ The purpose of this project is to:
 
 ## 📷 Dashboard Preview
 
-![E-Commerce Dashboard](./Screenshot%202025-09-01%20220150.png)
+![E-Commerce Dashboard](.https://github.com/Ketan2612/E-Commerce-Dashboard/blob/main/Dashboard%20snapshot.png)
 
 ---
 
@@ -88,12 +88,11 @@ The purpose of this project is to:
 
 **Ketan Tewari**
 
-* 📧 Email: [yourname@example.com]
+* 📧 Email: [ketantewari100@gmail.com]
 * 🌐 GitHub: [your-github-profile]
 
 ---
 
-👉 If you like this project, don’t forget to ⭐ star the repo!
 
 ---
 
