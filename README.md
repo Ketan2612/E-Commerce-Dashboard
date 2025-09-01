@@ -51,7 +51,7 @@ The purpose of this project is to:
 
 ## 📷 Dashboard Preview
 
-![E-Commerce Dashboard](.https://github.com/Ketan2612/E-Commerce-Dashboard/blob/main/Dashboard%20snapshot.png)
+(https://github.com/Ketan2612/E-Commerce-Dashboard/blob/main/Dashboard%20snapshot.png)
 
 ---
 
